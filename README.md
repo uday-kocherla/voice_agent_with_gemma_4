@@ -112,4 +112,4 @@ Every error hit while building this — and the exact fix — is logged in
 
 ## License
 
-Add a license of your choice (e.g. MIT) before publishing this repository.
+Apache 2.0 License.
