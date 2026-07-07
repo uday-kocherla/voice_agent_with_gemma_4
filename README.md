@@ -112,4 +112,4 @@ Every error hit while building this — and the exact fix — is logged in
 
 ## License
 
-Apache 2.0 License.
+This project is under Apache 2.0 License.
